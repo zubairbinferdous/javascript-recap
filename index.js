@@ -27,25 +27,25 @@
 
 
 
-  function testTwo() {
-    console.log('hello world function two');
-  }
-  console.log(testTwo());
+  // function testTwo() {
+  //   console.log('hello world function two');
+  // }
+  // console.log(testTwo());
 
 
-  function test() {
-    console.log('hello world function');
-  }
-  test();
+  // function test() {
+  //   console.log('hello world function');
+  // }
+  // test();
 
-  function math(){
-    var a = 20;
-    var b = 30;
-    var c = a + b ;
-    return c;
-  }
-  math();
-  //console.log(math());
+  // function math(){
+  //   var a = 20;
+  //   var b = 30;
+  //   var c = a + b ;
+  //   return c;
+  // }
+  // math();
+  // //console.log(math());
 
 
 
